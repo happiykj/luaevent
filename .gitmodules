@@ -1,0 +1,6 @@
+[submodule "libevent"]
+	path = libevent
+	url = https://github.com/happiykj/libevent
+[submodule "luaevent"]
+	path = luaevent
+	url = https://github.com/harningt/luaevent
